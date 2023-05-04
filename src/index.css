@@ -15,6 +15,7 @@
   text-align: center;
 }
 .center_div{
+  border-radius: 25px;
   width: 25%;
   height: 80vh;
   background-color: #f4f4f4;
@@ -43,7 +44,7 @@ input{
 
 button{
   min-height: 40px;
-  width: 40px;
+  width: 50px;
   border-radius: 50%;
   border-color: transparent;
   background-color: #8566aa;
